@@ -1,0 +1,1030 @@
+.button-theme {
+    background:black;
+}
+
+.button-theme:hover {
+    background: #efab0a;
+}
+
+.btn-border {
+    color: #fff;
+    background: black;
+    border: solid 1px black;
+}
+
+.btn-6{
+    color: black;
+}
+
+.main-title h1 span{
+    color: black;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        background-color: black;
+    }
+    50% {
+        background-color: black;
+    }
+}
+
+.car-box .facilities-list{
+    background: blackad;
+}
+
+.main-title-2 h1 span{
+    color: black;
+}
+
+.contact-section .login-inner-form .btn-theme {
+    background: #ffa637;
+}
+
+.contact-section .login-inner-form .btn-theme:hover {
+    background: #ed972c;
+}
+
+.contact-section .login-inner-form .checkbox-theme input[type="checkbox"]:checked + label::before {
+    background-color: #ffa637;
+    border-color: #ffa637;
+}
+
+.faq-body .faq-info .nav-tabs .nav-link.active {
+    background-color: black;
+}
+
+.faq-body .faq-info .nav-tabs .nav-link.active {
+    background-color: black;
+}
+
+.faq-body .faq-info .nav-tabs .nav-link:hover{
+    background-color: black;
+}
+
+.contact-1 .contact-info .ci-box i{
+    color: black;
+}
+
+.contact-2 .ci-box .icon i{
+    color: black;
+}
+
+.car-box-5 .carousel-indicators .active {
+    background: black;
+}
+
+.service-car .carousel-indicators .active {
+    background: black;
+}
+
+.btn-border:hover{
+    background: #efab0a;
+    border: solid 1px #efab0a;
+}
+
+.blog-2 .b-btn{
+    color: black;
+}
+
+#dismiss {
+    color: black;
+}
+
+#sidebar .get-in-touch .get-in-touch-box:hover i {
+    background: black;
+    color: #fff;
+}
+
+#full-page-search .close{
+    background: black;
+}
+
+.sidebar-navigation .active {
+    color: black;
+}
+
+.sidebar-navigation ul li a:hover {
+    color: black;!important;
+}
+
+.service-info-2 .icon {
+    color: black;
+    border: dashed 1px black;
+}
+
+.blog-3 .b-btn{
+    color: black;
+}
+
+.banner .banner-slider-inner .banner-content2 h2{
+    color: black;
+}
+
+.banner-3 .banner-info-3 h1{
+    color: black;
+}
+
+.counters .counter-box h5 span{
+    color: black;
+}
+
+.search-box-4{
+    background: black;
+}
+
+.counters .counter-box i{
+    color: black;
+}
+
+.car-box .facilities-list::before {
+    background: black;
+}
+
+.about-slider-box:before {
+    border: 2px solid black;
+}
+
+.car-box .footer .price{
+    color: black;
+}
+
+.question .contact-info li i{
+    color: black;
+}
+
+.price-box-2{
+    color: black;
+}
+
+.car-box-3 .detail .title a{
+    color: black;
+}
+
+.car-box-5 .facilities-list li i{
+    color: black;
+}
+
+.car-box-3 .facilities-list li i{
+    color: black;
+}
+
+.car-box .footer ul li a:hover{
+    color: black;
+}
+
+.car-model-2 .ratings-2 span{
+    background: black;
+}
+
+.car-box-3 .footer ul li a:hover{
+    color: black;
+}
+
+.overlap-btn:hover{
+    background: black;
+    border: solid 1px black;
+}
+
+.overlap-btn.active {
+    border: 1px solid black!important;
+    background: black !important;
+    color: #fff;
+}
+
+.car-box-2 .facilities-list li i{
+    color: black;
+}
+
+.change-view-btn:hover {
+    background: black;
+    border: solid 1px black;
+    color: #fff;
+}
+
+.car-model-2 .price-box .del-2 {
+    color: black;
+}
+
+.change-view-btn {
+    border-radius: 2px;
+    border: solid 1px black;
+    color: black;
+}
+
+.active-view-btn{
+    background: black;
+    border: solid 1px black;
+    color: #fff;
+}
+
+.car-box-4 h5{
+    color: black;
+}
+
+.blog-3 .post-meta a {
+    color: black;
+}
+
+.sb-5 .search-area-inner{
+    background:black;
+}
+
+.navbar-light .navbar-toggler{
+    background: black;
+}
+
+.banner h4 {
+    color: black;
+}
+
+.shop-info .price del {
+    color: black;
+}
+
+.details-banner .cover-buttons ul li a:hover {
+    background: black;
+}
+
+.text .ratings-box {
+    background: black;
+}
+
+.dashboard-nav ul {
+    border-bottom: 1px solid #efab0a;
+}
+
+.new-user-box .follow:hover{
+    background:black;
+    color: #fff;
+}
+
+.service-info-3 .icon{
+    color:black;
+}
+
+.setting-button i{
+    color:black;
+}
+
+#page_scroller {
+    background:black;
+}
+
+.dashboard-nav{
+    background:black;
+}
+
+.counter-box-1 h5 span{
+    color: black;
+}
+
+.counter-box-1 i{
+    color: black;
+}
+
+.counter-box-2:hover h2{
+    color: black;
+}
+
+.blog-31:hover .facilities-list ul li i{
+    color: black;
+}
+
+.car-box-4 .read-more-btn{
+    color: black;
+}
+
+.car-box-4 .read-more-btn:hover{
+    background: black;
+    color: #fff;
+}
+
+.counter-box-3 h1{
+    color: black;
+}
+
+.counter-box-3 .icon i{
+    color: black;
+}
+
+.counter-box-3:hover .icon{
+    background: black;
+}
+
+.counter-box-1:hover h1 {
+    color: black;
+}
+
+.counter-box-1:hover h5 {
+    color: black;
+}
+
+.counter-box-1:hover h5 span{
+    color: #fff;
+}
+
+/** Tab box 2 start **/
+.tab-box-2 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background: transparent;
+    border-bottom: solid 2pxblack;
+    border-radius: 0;
+    color:black;
+}
+
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background:black;
+}
+
+.checkbox-theme input[type="checkbox"]:checked + label::before {
+    border: 2px solidblack;
+}
+
+.main-header .dropdown-menu a:hover {
+    color:black;
+}
+
+input[type=checkbox]:checked + label:before {
+    color:black;
+}
+
+.testimonial-3 .carousel-indicators li.active {
+    background: black;
+}
+
+.testimonial-2 .testimonial-info-box::before {
+    background-color: black;
+}
+
+.testimonial-2 .testimonial-info-box h6{
+    color: black;
+}
+
+.service-info-2::before {
+    background: black;
+}
+
+.blog-1:hover .date-box span{
+    color: black;
+}
+
+.blog-1:hover .date-box{
+    color: black;
+}
+
+.blog-1 .blog-image::after {
+    background: black;
+}
+
+.blog-1 .date-box {
+    background: black;
+}
+
+.blog-1 .date-box::after {
+    border-right: 10px solid black;
+}
+
+.single-info:before {
+    background-color: black;
+}
+
+.single-info .icon i {
+    color: black;
+}
+
+.service-info-3:hover h5 a{
+    color: black;
+}
+
+.blog-3:hover .date-box-2{
+    background: black;
+}
+
+.blog-3:hover .post-meta{
+    background: black;
+}
+
+.blog-3 .blog-image::after {
+    background: black;
+}
+
+
+.single-info:hover h2 a{
+    color: black;
+}
+
+.testimonial-3 .testimonial-item-new .author-img .icon {
+    background: black;
+}
+
+.testimonial-3 .testimonial-item-new .left-line::before {
+    background: black;
+}
+
+.testimonial-3 .testimonial-item-new .author-content h5 .desig {
+    color: black;
+}
+
+.testimonial-4 .testimonial-info .user-section:before {
+    background: black;
+}
+
+.testimonial-4 .testimonial-info .icon {
+    background: black;
+}
+
+.banner-bg-color{
+    background:black;
+}
+
+.btn-theme{
+    background:black;
+    border: solid 1pxblack;
+}
+
+.featured-car-4 .carousel-indicators li.active {
+    background: black;
+}
+
+.btn-theme:hover{
+    background: #efab0a;
+    border: solid 1px #efab0a;
+}
+
+.btn-white-lg-outline:hover {
+    color: #FFF;
+    background:black;
+    border: solid 2pxblack;
+}
+
+.car-amenities ul li i {
+    color:black;
+}
+
+.blog-2 h3 a{
+    color:black;
+}
+
+.border-button-theme {
+    color:black;
+    border: 2px solidblack;
+}
+
+.banner-detail-box .red-box {
+    background:black url(../../img/slider-detail.png) center center;
+}
+
+.banner-detail-box .white-box .slide-price {
+    color:black;
+}
+
+.banner-detail-box .white-box .slide-location::after {
+    background-color:black;
+}
+
+.search-options-btn, .search-options-btn:hover {
+    background:black;
+}
+
+.search-button {
+    background:black;
+}
+
+.intro-section {
+    background:black;
+}
+
+.search-button:hover {
+    color: #fff;
+    background: #efab0a;
+}
+
+.popular .price-for-user{
+    color: black;
+}
+
+.popular .price-for-user .price .dolar {
+    color: black!important;
+}
+
+.bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
+    color:black;
+}
+
+.bootstrap-select .dropdown-menu > .active > a,
+.bootstrap-select .dropdown-menu > .active > a:focus,
+.bootstrap-select .dropdown-menu > .active > a:hover {
+    color:black;
+}
+
+.bootstrap-select .dropdown-menu li a:hover .text {
+    color:black;
+}
+
+.tag {
+    background:black;
+}
+
+.view-all ul li a:hover{
+    background: black;
+    color: #fff;
+}
+
+.tag::after {
+    border-left: 10px solidblack;
+}
+
+.recent-properties-box .detail header::after {
+    background-color:black;
+}
+
+.car-box .detail .title a {
+    color:black;
+}
+
+footer .footer-item .contact-info li label a:hover {
+    color:black;
+}
+
+.service-info .icon i{
+    color:black;
+}
+
+.service-box .heading .title h4 a:hover {
+    color:black;
+}
+
+.main-header .form-inline .submit {
+    border: solid 1pxblack;
+    color:black;
+}
+
+.main-header .form-inline .submit:hover {
+    border: solid 1pxblack;
+    background:black;
+    color: #fff;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color:black;
+}
+
+.sh-3 .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #515151;
+}
+
+.btn-8:before {
+    background: black;
+}
+
+.btn-8:hover:before {
+    background: black;
+}
+
+.filteriz-navigation li.active {
+    background: black;
+}
+
+.filteriz-navigation li:hover{
+    background: black;
+}
+
+.main-header .navbar-expand-lg .user-account li a:hover {
+    color:black;
+}
+
+.plan .price-header h1 {
+    color:black;
+}
+
+.car-box-5 .detail h3 a{
+    color:black;
+}
+
+.btn-outline {
+    border: solid 1pxblack;
+    color:black;
+}
+
+.btn-outline:hover {
+    border: solid 1px #efab0a;
+    background: #efab0a;
+    color: #fff;
+}
+
+.btn-outline-2 {
+    border: solid 2pxblack;
+    color:black;
+    font-weight: 600;
+}
+
+.heading-car-2 h3 span {
+    color:black;
+}
+
+.btn-outline-2:hover {
+    border: solid 2px #efab0a;
+    background: #efab0a;
+    color: #fff;
+}
+
+.footer .form-inline .btn{
+    background:black;
+    color: #fff;
+}
+
+.search-box-2{
+    background:black;
+}
+
+.about-box .detail h3 {
+    color:black;
+}
+
+li.active.filtr-button.filtr a{
+    color:black;
+}
+
+.coming-soon-inner h1 span{
+    color:black;
+}
+
+.filteriz-navigation li a:hover{
+    color:black;
+}
+
+.sub-banner .page-info .breadcrumb-area ul li a:hover {
+    color:black;
+}
+
+
+.show-more-options i{
+    color:black;
+}
+
+.pagination > li > .active {
+    background:black;
+}
+
+.pagination > li > a:hover {
+    background:black;
+    color: #fff;
+}
+
+.contact-section .btn-section .active-bg {
+    color:black;
+}
+
+.read-more {
+    color:black;
+}
+
+.blog-3 .detail .post-meta span a i {
+    color:black;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    background:black;
+}
+
+.our-agent-sidebar .carousel-indicators .active {
+    background:black;
+}
+
+.counter-box-2 .icon{
+    color: black;
+}
+
+.range-slider .ui-slider .ui-slider-handle {
+    border: 2px solidblack;
+}
+
+.range-slider .ui-widget-header {
+    background-color:black;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color {
+    color:black;
+    border: solid 1pxblack;
+}
+
+.main-header .navbar-expand-lg .navbar-nav .link-color:hover{
+    color: #fff;
+    border: solid 1pxblack;
+    background:black;
+}
+
+.posts-by-category ul li a:hover {
+    color:black;
+}
+
+.tags-box ul li a:hover {
+    color:#fff;
+    border: 1px solid black;
+    background: black;
+}
+
+.latest-tweet a {
+    color:black;
+}
+
+.blog-1 h3 a:hover{
+    color:black;
+}
+
+.blog-tags a:hover {
+    color:#fff;
+    border: 1px solid black;
+    background: black;
+}
+
+.car-box-5 .detail .title a {
+    color:black;
+}
+
+.price-box-3 {
+    color: black;
+}
+
+.vs{
+    color: black;
+}
+
+.blog-1 .detail h4 a{
+    color:black;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    color:black;
+}
+
+.breadcrumbs li a:hover {
+    color:black;
+}
+
+.faq-info .accordion-button:focus {
+    background: black;
+}
+
+.elements-page .list-group-item.active {
+    background-color: black;
+    border-color: black;
+}
+
+.helping-center ul li i {
+    color:black;
+}
+
+.my-account-box .title::after {
+    background-color:black;
+}
+
+.breadcrumb-nav ul .active {
+    color:black;
+}
+
+.photoUpload {
+    background:black;
+}
+
+.typography-page mark.color {
+    background-color:black;
+}
+
+.faq-accordion .card-header .collapsed.card-title:before {
+    color:black;
+}
+
+.dashboard-nav ul li span.nav-tag {
+    color:black;
+}
+
+.payment-box .form-check-input:checked {
+    background-color: black;
+    border-color: black;
+}
+
+.comment-content h6 span a{
+    background: black;
+}
+
+.bg-active {
+    background: black;
+    color: #fff!important;
+}
+
+.banner h3 span{
+    color: black;
+}
+
+.typography .list-3 li:before, .list-2 li:before, .list-1 li:before {
+    color:black;
+}
+
+.numbered.color.filled ol > li::before {
+    border: 1px solidblack;
+    background-color:black;
+}
+
+.numbered.color ol > li::before {
+    border: 1px solidblack;
+    color:black;
+}
+
+.widget-link:hover {
+    color:black;
+}
+
+.coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
+    background:black;
+}
+
+.car-box-2 .detail .title a {
+    color:black;
+}
+
+.car-box .footer .price {
+    color:black;
+}
+
+.pricing-1 .pricing-btn {
+    border: solid 1px black;
+    color: black;
+}
+
+.pricing-1:hover .pricing-btn {
+    color: black;
+}
+
+.pricing-1::before {
+    background: black;
+}
+
+.pricing-1 .plan-list ul li i{
+    color: black;
+}
+
+.pricing-1 .plan-header .plan-price{
+    color: black;
+}
+
+.car-box:hover .facilities-list ul li i{
+    color: black;
+}
+
+.banner-3 button{
+    background: black;
+}
+
+.btn-3{
+    background: black;
+    border: 2px solid black;
+}
+
+.btn-3:hover {
+    color: black!important;
+    border: 2px solid black;
+}
+
+.btn-3:before {
+    background: black;
+}
+
+.btn-4{
+    color: black;
+    border: 2px solid black;
+}
+
+.btn-4:before {
+    background: black;
+    border-color: black;
+}
+
+.btn-4 span{
+    color: black;
+}
+
+.btn-5:after {
+    background: #efab0a;
+}
+
+.btn-5 {
+    background: black;
+}
+
+.btn-7:after {
+    background: black;
+}
+
+.car-box .detail .title a {
+    color: black;
+}
+
+.car-box .car-image::before {
+    background: black;
+}
+
+.car-box .car-image::after {
+    background: black;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color:black;
+}
+
+.tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    background-color:black;
+}
+
+.map-marker:hover {
+    background-color:black;
+    cursor: pointer;
+}
+
+.map-marker:hover:before {
+    border-color:black transparent transparent transparent;
+}
+
+.map-marker.featured:hover {
+    background-color:black;
+}
+
+.map-marker.featured:hover:before {
+    border-color:black transparent transparent transparent;
+}
+
+.map-marker .icon {
+    border: 3px solidblack;
+}
+
+.marker-active .map-marker {
+    background-color:black;
+}
+
+.marker-active .map-marker:before {
+    border-color:black transparent transparent transparent;
+}
+
+.slick-arrow-buton:hover{
+    background:black;
+    color: #fff;
+}
+
+.map-properties .map-content h4 a {
+    color:black;
+}
+
+.dropzone-design:hover {
+    border: 2px dashedblack;
+}
+
+
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color:black!important;
+    }
+
+    .car-model-2 .modal-header {
+        background: black;
+        padding: 20px 20px 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color:black;
+    }
+
+    .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+        background-color:black !important;
+    }
+
+    .main-header .navbar-default .nav > li > a:hover {
+        background:black;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+        background-color:black !important;
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        background: #eee;
+    }
+}
+
+@media (min-width: 992px) {
+    /*.header-transparent .navbar-expand-lg .navbar-nav .active .nav-link,
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link:hover
+    {
+        color: #fff !important;
+    }
+
+    .header-transparent .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+    }
+
+    .header-transparent .link-color {
+        color: #fff;
+    }*/
+}
