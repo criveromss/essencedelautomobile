@@ -5877,7 +5877,7 @@ input[type=checkbox]:checked + label:before {
     height: 45px;
     text-align: center;
     line-height: 45px;
-    background: #1b1e83;
+    background: white;
     border-radius: 50px;
 }
 
@@ -5890,13 +5890,13 @@ input[type=checkbox]:checked + label:before {
 }
 
 .footer .social-media .icon {
-    background: #1b1e83;
-    color: #fff!important;
+    background: black;
+
+
 }
 
 .footer .f-logo{
-    margin-bottom: 0px;
-    height: 50px;
+    height: 130px;
 }
 
 .footer-gallery{
