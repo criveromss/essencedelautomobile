@@ -5877,7 +5877,11 @@ input[type=checkbox]:checked + label:before {
     height: 45px;
     text-align: center;
     line-height: 45px;
+<<<<<<< HEAD
+    background: #1b1e83;
+=======
     background: white;
+>>>>>>> 152e24e (first commit)
     border-radius: 50px;
 }
 
@@ -5890,6 +5894,15 @@ input[type=checkbox]:checked + label:before {
 }
 
 .footer .social-media .icon {
+<<<<<<< HEAD
+    background: #1b1e83;
+    color: #fff!important;
+}
+
+.footer .f-logo{
+    margin-bottom: 0px;
+    height: 50px;
+=======
     background: black;
 
 
@@ -5897,6 +5910,7 @@ input[type=checkbox]:checked + label:before {
 
 .footer .f-logo{
     height: 130px;
+>>>>>>> 152e24e (first commit)
 }
 
 .footer-gallery{
